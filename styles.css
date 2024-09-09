@@ -26,10 +26,17 @@ body {
 .unorderedlist {
     text-align: center;
     font-size: 35px;
-
+}
+.rankedlistdescription {
+    text-align: center;
+    font-size: 35px;
+}
+.orderedlist {
+    text-align: center;
+    font-size: 35px;
 }
 .link {
     text-align: right;
     background: yellow;
-    font-size: 10px;
+    font-size: 25px;
 }
