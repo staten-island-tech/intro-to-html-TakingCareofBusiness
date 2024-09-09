@@ -30,4 +30,6 @@ body {
 }
 .link {
     text-align: right;
+    background: yellow;
+    font-size: 10px;
 }
