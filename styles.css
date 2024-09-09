@@ -1,0 +1,33 @@
+.header {
+    padding: 100px;
+    text-align: center;
+    background: purple;
+    color: orangered;
+    font-size: 75px;
+  }
+body {
+    background-color:blueviolet
+}
+
+.subheader {
+    text-align: center;
+    color: orangered;
+    font-size: 50px;
+}
+.paragraph {
+    color:black;
+    font-size: 30px;
+    
+}
+.unlistdescription {
+    text-align: center;
+    font-size: 35px;
+}
+.unorderedlist {
+    text-align: center;
+    font-size: 35px;
+
+}
+.link {
+    text-align: right;
+}
