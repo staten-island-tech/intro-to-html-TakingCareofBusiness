@@ -1,5 +1,7 @@
 body {
-    background-color: yellow
+    background-color: yellow;
+    color: black;
+    font-size: ;
 }
 .header {
     padding: 100px;
@@ -45,7 +47,12 @@ body {
     width: 50%;
 }
 .link {
+    width: 300px;
+    height: 200px;
     text-align: right;
     background: yellow;
     font-size: 25px;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 30px;
 }
